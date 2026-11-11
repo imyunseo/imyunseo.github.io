@@ -23,14 +23,14 @@ repository               : "imyunseo/imyunseo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "images.jpg"
+  name             : "Jeong YunSeo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hello, I am learning opensourse"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "PKNU"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jys751213@gmail.com" 
 
   # Academic websites
   academia         : # URL

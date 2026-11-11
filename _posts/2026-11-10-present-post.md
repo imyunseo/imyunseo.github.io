@@ -1,6 +1,6 @@
 ---
 title: 'Present Blog Post'
-date: 2026-11-11
+date: 2026-11-10
 permalink: /posts/2026/11/blog-post/
 tags:
   - cool posts
